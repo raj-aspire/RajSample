@@ -1,0 +1,78 @@
+﻿@page
+@model ContactApp.Pages.SchoolContacts.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.SchoolContact[0].Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SchoolContact[0].ContactMobileNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SchoolContact[0].ContactWhatsAppNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SchoolContact[0].EmailId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SchoolContact[0].YourBirthDay)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SchoolContact[0].SpouseBirthDay)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SchoolContact[0].KidsNameBirthDay)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SchoolContact[0].CurrentLocation)
+            </th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.SchoolContact) {
+        <tr>
+            <td class="font-weight-light">
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td class="font-weight-light">
+                @Html.DisplayFor(modelItem => item.ContactMobileNumber)
+            </td>
+            <td class="font-weight-light">
+                @Html.DisplayFor(modelItem => item.ContactWhatsAppNumber)
+            </td>
+            <td class="font-weight-light">
+                @Html.DisplayFor(modelItem => item.EmailId)
+            </td>
+            <td class="font-weight-light">
+                @Html.DisplayFor(modelItem => item.YourBirthDay)
+            </td>
+            <td class="font-weight-light">
+                @Html.DisplayFor(modelItem => item.SpouseBirthDay)
+            </td>
+            <td class="font-weight-light">
+                @Html.DisplayFor(modelItem => item.KidsNameBirthDay)
+            </td>
+            <td class="font-weight-light">
+                @Html.DisplayFor(modelItem => item.CurrentLocation)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

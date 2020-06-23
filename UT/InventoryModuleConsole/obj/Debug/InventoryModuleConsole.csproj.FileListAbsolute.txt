@@ -1,0 +1,8 @@
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\InventoryModuleConsole\bin\Debug\InventoryModuleConsole.exe.config
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\InventoryModuleConsole\bin\Debug\InventoryModuleConsole.exe
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\InventoryModuleConsole\bin\Debug\InventoryModuleConsole.pdb
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\InventoryModuleConsole\bin\Debug\InventoryModule-v2.dll
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\InventoryModuleConsole\bin\Debug\InventoryModule-v2.pdb
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\InventoryModuleConsole\obj\Debug\InventoryModuleConsole.csprojResolveAssemblyReference.cache
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\InventoryModuleConsole\obj\Debug\InventoryModuleConsole.exe
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\InventoryModuleConsole\obj\Debug\InventoryModuleConsole.pdb

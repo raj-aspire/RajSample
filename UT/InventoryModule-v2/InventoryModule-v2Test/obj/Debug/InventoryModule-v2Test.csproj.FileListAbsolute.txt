@@ -1,0 +1,16 @@
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\InventoryModule-v2\InventoryModule-v2Test\bin\Debug\InventoryModule-v2Test.dll
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\InventoryModule-v2\InventoryModule-v2Test\bin\Debug\InventoryModule-v2Test.pdb
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\InventoryModule-v2\InventoryModule-v2Test\bin\Debug\Castle.Core.dll
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\InventoryModule-v2\InventoryModule-v2Test\bin\Debug\InventoryModule-v2.dll
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\InventoryModule-v2\InventoryModule-v2Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\InventoryModule-v2\InventoryModule-v2Test\bin\Debug\Moq.dll
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\InventoryModule-v2\InventoryModule-v2Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\InventoryModule-v2\InventoryModule-v2Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\InventoryModule-v2\InventoryModule-v2Test\bin\Debug\InventoryModule-v2.pdb
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\InventoryModule-v2\InventoryModule-v2Test\bin\Debug\Castle.Core.xml
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\InventoryModule-v2\InventoryModule-v2Test\bin\Debug\Moq.xml
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\InventoryModule-v2\InventoryModule-v2Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\InventoryModule-v2\InventoryModule-v2Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\InventoryModule-v2\InventoryModule-v2Test\obj\Debug\InventoryModule-v2Test.csprojResolveAssemblyReference.cache
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\InventoryModule-v2\InventoryModule-v2Test\obj\Debug\InventoryModule-v2Test.dll
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\InventoryModule-v2\InventoryModule-v2Test\obj\Debug\InventoryModule-v2Test.pdb

@@ -1,0 +1,4 @@
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\InventoryModule-v2\bin\Debug\InventoryModule-v2.dll
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\InventoryModule-v2\bin\Debug\InventoryModule-v2.pdb
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\InventoryModule-v2\obj\Debug\InventoryModule-v2.dll
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\InventoryModule-v2\obj\Debug\InventoryModule-v2.pdb

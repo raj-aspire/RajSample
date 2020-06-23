@@ -1,0 +1,6 @@
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\AJConsoleUT\bin\Debug\AJConsoleUT.exe.config
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\AJConsoleUT\obj\Debug\AJConsoleUT.csprojResolveAssemblyReference.cache
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\AJConsoleUT\bin\Debug\AJConsoleUT.exe
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\AJConsoleUT\bin\Debug\AJConsoleUT.pdb
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\AJConsoleUT\obj\Debug\AJConsoleUT.exe
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\AJConsoleUT\obj\Debug\AJConsoleUT.pdb

@@ -1,0 +1,10 @@
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\AJInventoryModule\bin\Debug\AJInventoryModule.dll
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\AJInventoryModule\bin\Debug\AJInventoryModule.pdb
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\AJInventoryModule\obj\Debug\AJInventoryModule.dll
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\AJInventoryModule\obj\Debug\AJInventoryModule.pdb
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\AJInventoryModule\bin\Debug\AJInventoryModule.dll.config
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\AJInventoryModule\bin\Debug\EntityFramework.dll
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\AJInventoryModule\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\AJInventoryModule\bin\Debug\EntityFramework.xml
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\AJInventoryModule\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\UT\AJInventoryModule\obj\Debug\AJInventoryModule.csprojResolveAssemblyReference.cache

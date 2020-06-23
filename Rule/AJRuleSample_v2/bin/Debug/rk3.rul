@@ -1,0 +1,6 @@
+using Domain;
+rule "RKRule3"
+when
+var passenger = Passenger(p => p.IsSeniorCitizen && p.Age < 60);
+then
+Context.Insert(string.Format("Passenger : {0} is not eligible for senior citizen concession, since his age is under 60.",passenger.Name));

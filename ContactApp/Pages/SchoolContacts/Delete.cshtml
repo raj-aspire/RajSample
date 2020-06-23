@@ -1,0 +1,70 @@
+﻿@page
+@model ContactApp.Pages.SchoolContacts.DeleteModel
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>SchoolContact</h4>
+    <hr />
+    <dl class="row border col-sm-12">
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.SchoolContact.Name)
+        </dt>
+        <dd class="col-sm-3 font-weight-light">
+            @Html.DisplayFor(model => model.SchoolContact.Name)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.SchoolContact.ContactMobileNumber)
+        </dt>
+        <dd class="col-sm-3 font-weight-light">
+            @Html.DisplayFor(model => model.SchoolContact.ContactMobileNumber)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.SchoolContact.ContactWhatsAppNumber)
+        </dt>
+        <dd class="col-sm-3 font-weight-light">
+            @Html.DisplayFor(model => model.SchoolContact.ContactWhatsAppNumber)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.SchoolContact.EmailId)
+        </dt>
+        <dd class="col-sm-3 font-weight-light">
+            @Html.DisplayFor(model => model.SchoolContact.EmailId)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.SchoolContact.YourBirthDay)
+        </dt>
+        <dd class="col-sm-3 font-weight-light">
+            @Html.DisplayFor(model => model.SchoolContact.YourBirthDay)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.SchoolContact.SpouseBirthDay)
+        </dt>
+        <dd class="col-sm-3 font-weight-light">
+            @Html.DisplayFor(model => model.SchoolContact.SpouseBirthDay)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.SchoolContact.KidsNameBirthDay)
+        </dt>
+        <dd class="col-sm-9 font-weight-light">
+            @Html.DisplayFor(model => model.SchoolContact.KidsNameBirthDay)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.SchoolContact.CurrentLocation)
+        </dt>
+        <dd class="col-sm-9 font-weight-light">
+            @Html.DisplayFor(model => model.SchoolContact.CurrentLocation)
+        </dd>
+    </dl>
+    
+    <form method="post">
+        <input type="hidden" asp-for="SchoolContact.Id" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-page="./Index">Back to List</a>
+    </form>
+</div>

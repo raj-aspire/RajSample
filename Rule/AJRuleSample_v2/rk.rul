@@ -1,0 +1,6 @@
+using Domain;
+rule "RKRule1"
+when
+var passenger = Passenger(x=>x.Age >= 60);
+then
+Console.WriteLine("Age is above 60");

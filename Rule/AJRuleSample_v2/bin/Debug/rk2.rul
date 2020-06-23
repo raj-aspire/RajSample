@@ -1,0 +1,6 @@
+using Domain;
+rule "RKRule2"
+when
+var passenger = Passenger(x=>x.Age<6);
+then
+Context.Insert(string.Format("Passenger : {0} is eligible for child concession.",passenger.Name));

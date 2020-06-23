@@ -1,0 +1,73 @@
+﻿@page
+@model ContactApp.Pages.SchoolContacts.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>SchoolContact</h4>
+<hr />
+<div class="row border">
+    <div class="col-md-12">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="SchoolContact.Id" />
+            <div class="row">
+                <div class="form-group col">
+                    <label asp-for="SchoolContact.Name" class="control-label"></label>
+                    <input asp-for="SchoolContact.Name" class="form-control font-weight-light" />
+                    <span asp-validation-for="SchoolContact.Name" class="text-danger"></span>
+                </div>
+                <div class="form-group col">
+                    <label asp-for="SchoolContact.ContactMobileNumber" class="control-label"></label>
+                    <input asp-for="SchoolContact.ContactMobileNumber" class="form-control font-weight-light" />
+                    <span asp-validation-for="SchoolContact.ContactMobileNumber" class="text-danger"></span>
+                </div>
+                <div class="form-group col">
+                    <label asp-for="SchoolContact.ContactWhatsAppNumber" class="control-label"></label>
+                    <input asp-for="SchoolContact.ContactWhatsAppNumber" class="form-control font-weight-light" />
+                    <span asp-validation-for="SchoolContact.ContactWhatsAppNumber" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row">
+                <div class="form-group col">
+                    <label asp-for="SchoolContact.EmailId" class="control-label"></label>
+                    <input asp-for="SchoolContact.EmailId" class="form-control font-weight-light" />
+                    <span asp-validation-for="SchoolContact.EmailId" class="text-danger"></span>
+                </div>
+                <div class="form-group col">
+                    <label asp-for="SchoolContact.YourBirthDay" class="control-label"></label>
+                    <input asp-for="SchoolContact.YourBirthDay" class="form-control font-weight-light" />
+                    <span asp-validation-for="SchoolContact.YourBirthDay" class="text-danger"></span>
+                </div>
+                <div class="form-group col">
+                    <label asp-for="SchoolContact.SpouseBirthDay" class="control-label"></label>
+                    <input asp-for="SchoolContact.SpouseBirthDay" class="form-control font-weight-light" />
+                    <span asp-validation-for="SchoolContact.SpouseBirthDay" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row">
+                <div class="form-group col col-lg-8">
+                    <label asp-for="SchoolContact.KidsNameBirthDay" class="control-label"></label>
+                    <input asp-for="SchoolContact.KidsNameBirthDay" class="form-control font-weight-light" />
+                    <span asp-validation-for="SchoolContact.KidsNameBirthDay" class="text-danger"></span>
+                </div>
+                <div class="form-group col col-lg-4">
+                    <label asp-for="SchoolContact.CurrentLocation" class="control-label"></label>
+                    <input asp-for="SchoolContact.CurrentLocation" class="form-control font-weight-light" />
+                    <span asp-validation-for="SchoolContact.CurrentLocation" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+                <a asp-page="./Index">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
