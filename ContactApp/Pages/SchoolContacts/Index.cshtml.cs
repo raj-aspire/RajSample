@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
+﻿using ContactApp.Models;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
-using ContactApp.Data;
-using ContactApp.Models;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace ContactApp.Pages.SchoolContacts
 {
@@ -19,7 +15,7 @@ namespace ContactApp.Pages.SchoolContacts
             _context = context;
         }
 
-        public IList<SchoolContact> SchoolContact { get;set; }
+        public IList<SchoolContact> SchoolContact { get; set; }
 
         public async Task OnGetAsync()
         {

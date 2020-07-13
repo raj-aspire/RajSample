@@ -1,15 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.EntityFrameworkCore;
-using ContactApp.Models;
+﻿using Microsoft.EntityFrameworkCore;
 
 namespace ContactApp.Data
 {
     public class ContactAppDbContext : DbContext
     {
-        public ContactAppDbContext (DbContextOptions<ContactAppDbContext> options)
+        public ContactAppDbContext(DbContextOptions<ContactAppDbContext> options)
             : base(options)
         {
         }

@@ -1,0 +1,15 @@
+
+tC:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\obj\Debug\netcoreapp2.2\Razor\Pages\Error.cshtml.g.csutf-8
+tC:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\obj\Debug\netcoreapp2.2\Razor\Pages\Index.cshtml.g.csutf-8Å
+vC:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.cshtml.g.csutf-8ê
+ÑC:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\obj\Debug\netcoreapp2.2\Razor\Pages\SchoolContacts\Create.cshtml.g.csutf-8ê
+ÑC:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\obj\Debug\netcoreapp2.2\Razor\Pages\SchoolContacts\Delete.cshtml.g.csutf-8ë
+ÖC:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\obj\Debug\netcoreapp2.2\Razor\Pages\SchoolContacts\Details.cshtml.g.csutf-8é
+ÇC:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\obj\Debug\netcoreapp2.2\Razor\Pages\SchoolContacts\Edit.cshtml.g.csutf-8è
+ÉC:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\obj\Debug\netcoreapp2.2\Razor\Pages\SchoolContacts\Index.cshtml.g.csutf-8ó
+ãC:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.csutf-8à
+}C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.cshtml.g.csutf-8õ
+èC:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.csutf-8Ü
+{C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.cshtml.g.csutf-8Ñ
+yC:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.cshtml.g.csutf-8á
+|C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\obj\Debug\netcoreapp2.2\ContactApp.RazorTargetAssemblyInfo.csutf-8

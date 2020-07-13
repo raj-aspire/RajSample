@@ -1,0 +1,4 @@
+File name	Line	Function	Duration[ms]	Explored nodes
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\Pages\SchoolContacts\Create.cshtml.cs	16	_ContactApp.Pages.SchoolContacts.CreateModel.OnGet$$	0	2
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\Pages\Index.cshtml.cs	6	_ContactApp.Pages.IndexModel.OnGet$$	0	2
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\Pages\Privacy.cshtml.cs	6	_ContactApp.Pages.PrivacyModel.OnGet$$	0	2

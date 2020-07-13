@@ -1,0 +1,130 @@
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\Api\SchoolContactsController.cs
+GetSchoolContact 10
+GetSchoolContact -1
+GetSchoolContact 4
+GetSchoolContact -1
+PutSchoolContact 3
+PutSchoolContact -1
+PostSchoolContact 3
+PostSchoolContact -1
+DeleteSchoolContact 3
+DeleteSchoolContact -1
+SchoolContactExists 17
+SchoolContactExists -1
+
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\Data\ContactAppDbContext.cs
+
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\Models\SchoolContact.cs
+
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\Pages\Error.cshtml.cs
+OnGet 3
+OnGet -1
+
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\Pages\Index.cshtml.cs
+OnGet 12
+OnGet -1
+
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\Pages\Privacy.cshtml.cs
+OnGet 3
+OnGet -1
+
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\Pages\SchoolContacts\Create.cshtml.cs
+OnGet 12
+OnGet -1
+OnPostAsync 3
+OnPostAsync -1
+
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\Pages\SchoolContacts\Delete.cshtml.cs
+OnGetAsync 3
+OnGetAsync -1
+OnPostAsync 4
+OnPostAsync -1
+
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\Pages\SchoolContacts\Details.cshtml.cs
+OnGetAsync 4
+OnGetAsync -1
+
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\Pages\SchoolContacts\Edit.cshtml.cs
+OnGetAsync 3
+OnGetAsync -1
+OnPostAsync 3
+OnPostAsync -1
+SchoolContactExists 3
+SchoolContactExists -1
+
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\Pages\SchoolContacts\Index.cshtml.cs
+OnGetAsync 3
+OnGetAsync -1
+
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\Program.cs
+Main 4
+Main -1
+CreateWebHostBuilder 3
+CreateWebHostBuilder -1
+
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\Startup.cs
+ConfigureServices 3
+ConfigureServices -1
+Configure 4
+Configure -1
+
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\obj\Debug\netcoreapp2.2\.NETCoreApp,Version=v2.2.AssemblyAttributes.cs
+
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\obj\Debug\netcoreapp2.2\ContactApp.AssemblyInfo.cs
+
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\obj\Debug\netcoreapp2.2\ContactApp.RazorAssemblyInfo.cs
+
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\obj\Debug\netcoreapp2.2\Razor\Pages\Error.cshtml.g.cs
+ExecuteAsync 3
+ExecuteAsync -1
+
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\obj\Debug\netcoreapp2.2\Razor\Pages\Index.cshtml.g.cs
+ExecuteAsync 3
+ExecuteAsync -1
+
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.cshtml.g.cs
+ExecuteAsync 3
+ExecuteAsync -1
+
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\obj\Debug\netcoreapp2.2\Razor\Pages\SchoolContacts\Create.cshtml.g.cs
+ExecuteAsync 7
+ExecuteAsync -1
+
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\obj\Debug\netcoreapp2.2\Razor\Pages\SchoolContacts\Delete.cshtml.g.cs
+ExecuteAsync 12
+ExecuteAsync -1
+
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\obj\Debug\netcoreapp2.2\Razor\Pages\SchoolContacts\Details.cshtml.g.cs
+ExecuteAsync 3
+ExecuteAsync -1
+
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\obj\Debug\netcoreapp2.2\Razor\Pages\SchoolContacts\Edit.cshtml.g.cs
+ExecuteAsync 3
+ExecuteAsync -1
+
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\obj\Debug\netcoreapp2.2\Razor\Pages\SchoolContacts\Index.cshtml.g.cs
+ExecuteAsync 3
+ExecuteAsync -1
+
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+ExecuteAsync 16
+ExecuteAsync -1
+
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.cshtml.g.cs
+ExecuteAsync 3
+ExecuteAsync -1
+
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+ExecuteAsync 3
+ExecuteAsync -1
+
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.cshtml.g.cs
+ExecuteAsync 3
+ExecuteAsync -1
+
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.cshtml.g.cs
+ExecuteAsync 3
+ExecuteAsync -1
+
+C:\Users\rajkumar.joseph\Documents\GitHub\RajSample\ContactApp\obj\Debug\netcoreapp2.2\ContactApp.RazorTargetAssemblyInfo.cs
+
