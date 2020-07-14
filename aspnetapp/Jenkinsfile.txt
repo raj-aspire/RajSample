@@ -10,7 +10,7 @@ pipeline {
                     extensions: [[$class: 'RelativeTargetDirectory', 
                           relativeTargetDir: 'aspnetapp']], 
                           submoduleCfg: [], 
-                          userRemoteConfigs: [[credentialsId: 'RajkumarGitHub', url: 'https://github.com/raj-aspire/RajSample.git']]])
+                          userRemoteConfigs: [[credentialsId: 'Rajkumar.joseph@aspiresys.com', url: 'https://github.com/raj-aspire/RajSample.git']]])
             }
         }
         stage('Build'){
