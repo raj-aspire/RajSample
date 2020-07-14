@@ -9,7 +9,7 @@ pipeline {
         }
         stage('Build'){
             steps{
-                bat "dotnet build --configuration Release"
+                bat "dotnet build aspnetapp\aspnetapp.sln --configuration Release"
             }
         }
         stage('Build Image'){
