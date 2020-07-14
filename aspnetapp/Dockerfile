@@ -8,9 +8,9 @@ COPY aspnetapp/aspnetapp/*.csproj ./aspnetapp/
 RUN dotnet restore
 
 # copy everything else and build app
-COPY aspnetapp/aspnetapp/. ./aspnetapp/
+COPY aspnetapp/. ./aspnetapp/
 WORKDIR /source/aspnetapp
-RUN dotnet publish ./aspnetapp/aspnetapp.csproj -c release -o /app --no-restore
+RUN dotnet publish -c release -o /app --no-restore
 
 # final stage/image
 FROM mcr.microsoft.com/dotnet/core/aspnet:3.1
