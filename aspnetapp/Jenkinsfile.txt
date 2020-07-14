@@ -10,7 +10,7 @@ pipeline {
         stage('Build'){
             steps{
 	    	bat "cd aspnetapp"
-                bat "dotnet build --configuration Release"
+                bat "dotnet build ..\aspnetapp\aspnetapp\aspnetapp.csproj --configuration Release"
             }
         }
         stage('Build Image'){
