@@ -1,0 +1,32 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Checkout') {
+            steps{
+                checkout([$class: 'GitSCM', 
+                    branches: [[name: '*/master']], 
+                    doGenerateSubmoduleConfigurations: false, 
+                    extensions: [[$class: 'RelativeTargetDirectory', 
+                          relativeTargetDir: 'aspnetapp']], 
+                          submoduleCfg: [], 
+                          userRemoteConfigs: [[credentialsId: 'RajkumarGitHub', url: 'https://github.com/raj-aspire/RajSample.git']]])
+            }
+        }
+        stage('Build'){
+            steps{
+                bat "dotnet build --configuration Release"
+            }
+        }
+        stage('Build Image'){
+          steps{
+            sh "docker build -t aspnetapp ."
+          }
+        }
+        stage('Create Container and Run'){
+            steps{
+                sh "docker run -it --rm -p 5000:80 --name aspnetcore_sample aspnetapp"
+            }
+        }
+	}
+}
